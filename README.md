@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Mzlou
 - 👀 I’m interested in JS and Web technologies
-- 🌱 I’m currently learning JS, React, TS, NodeJS
+- 🌱 I’m currently learning JS, Vue || React? I'm undecided
